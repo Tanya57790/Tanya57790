@@ -17,7 +17,3 @@ At the moment I am working on pet projects to learn new technologies and improve
 
 ### 📫 How to reach me: 
 - Email: tmahortova67@gmail.com
-
-
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tanya57790&show_icons=true&theme=radical)
