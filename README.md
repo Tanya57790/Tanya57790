@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there ![hand](https://github.com/user-attachments/assets/10f86ae3-25cd-47c5-9b52-e1721319f38c)
 At the moment I am working on pet projects to learn new technologies and improve skills in those I have already learned.
 
 <div align="center">
@@ -21,7 +21,11 @@ At the moment I am working on pet projects to learn new technologies and improve
 </div>
 
 🔭 I’m currently working on Banking Company Website.    
-🌱 I’m currently learning Tailwind CSS, Better Auth and MySQL.  
+🌱 I’m currently learning Tailwind CSS, Better Auth and MySQL. 
+
+### A little about me
+
+I like pixel art, and sometimes I draw sprites like this waving hand from above. I might try to develop an RPG game in the future for myself.
 
 ### 📫 How to reach me: 
 - Email: tmahortova67@gmail.com
