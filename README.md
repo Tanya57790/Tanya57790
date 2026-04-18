@@ -5,6 +5,7 @@ At the moment I am working on pet projects to learn new technologies and improve
 
   ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
   ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=grey) 
+  ![Vite](https://img.shields.io/badge/Vite-9135FF?logo=vite&logoColor=white)
   ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) 
   ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
   ![Material UI](https://img.shields.io/badge/Material_UI-007FFF?logo=mui&logoColor=white)
