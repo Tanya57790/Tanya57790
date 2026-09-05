@@ -27,6 +27,3 @@ At the moment I am working on pet projects to learn new technologies and improve
 ### A little about me
 
 I like pixel art, and sometimes I draw sprites like this waving hand from above. I might try to develop an RPG game in the future for myself.
-
-### 📫 How to reach me: 
-- Email: tmahortova67@gmail.com
